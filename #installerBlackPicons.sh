@@ -2,14 +2,14 @@
 #########################################################
 version=2.1.1
 description="BoHLALA_FHD-V" !!!
-
+#https://github.com/Linuxcode1/Picons/blob/main/BlackPicons.tar.gz
 #########################################################
 
 #########################################################
-PACKAGE_DIR='TeamNitro/main/'
-MY_FILE="BoHLALA_FHD.tar.gz"
+PACKAGE_DIR='Linuxcode1/Picons/main/'
+MY_FILE="BlackPicons.tar.gz"
 #########################################################
-MY_MAIN_URL="https://raw.githubusercontent.com/biko-73/"
+MY_MAIN_URL="https://raw.githubusercontent.com/Linuxcode1/"
 MY_URL=$MY_MAIN_URL$PACKAGE_DIR'/'$MY_FILE
 MY_TMP_FILE="/tmp/"$MY_FILE
 

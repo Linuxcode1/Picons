@@ -3,11 +3,6 @@
 version=2.1.1
 description="Bahaa Picon Idea" !!!
 
-#########################################################
-
-#########################################################
-
-#########################################################
 MY_MAIN_URL="https://raw.githubusercontent.com/Linuxcode1/"
 PACKAGE_DIR='Picons/main/'
 MY_FILE="BlackPicons.tar.gz"

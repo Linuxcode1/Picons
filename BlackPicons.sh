@@ -4,7 +4,7 @@ version=5.4
 description="NitroAdvanceFHD" !!!
 
 #########################################################
-s.tar.gz
+
 #########################################################
 PACKAGE_DIR='Picons/main/'
 MY_FILE="BlackPicons.tar.gz"

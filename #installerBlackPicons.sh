@@ -3,15 +3,16 @@
 version=2.1.1
 description="BoHLALA_FHD-V" !!!
 #########################################################
-
+#https://github.com/Linuxcode1/Picons/blob/main/BlackPicons.tar.gz
 #########################################################
-PACKAGE_DIR='Linuxcode1/Picons/main/'
+PACKAGE_DIR='Linuxcode1/Picons/blob/main/'
 MY_FILE="BlackPicons.tar.gz"
 #########################################################
 MY_MAIN_URL="https://raw.githubusercontent.com/Linuxcode1/"
+
+
 MY_URL=$MY_MAIN_URL$PACKAGE_DIR'/'$MY_FILE
 MY_TMP_FILE="/tmp/"$MY_FILE
-
 rm -f $MY_TMP_FILE > /dev/null 2>&1
 
 MY_SEP='============================================================='

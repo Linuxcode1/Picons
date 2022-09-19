@@ -4,7 +4,7 @@ version=5.4
 description="NitroAdvanceFHD" !!!
 
 #########################################################
-#https://raw.githubusercontent.com/Linuxcode1/Linuxcode1/Picons/blob/main/BlackPicons.tar.gz
+
 #########################################################
 PACKAGE_DIR='Picons/blob/main/'
 MY_FILE="BlackPicons.tar.gz"

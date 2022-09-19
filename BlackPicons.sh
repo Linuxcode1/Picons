@@ -6,7 +6,7 @@ description="Bahaa Picon Idea" !!!
 #########################################################
 
 #########################################################
-PACKAGE_DIR='Picons/blob/main/'
+PACKAGE_DIR='/Picons/blob/main/'
 MY_FILE="BlackPicons.tar.gz"
 #########################################################
 MY_MAIN_URL="https://raw.githubusercontent.com/Linuxcode1/"

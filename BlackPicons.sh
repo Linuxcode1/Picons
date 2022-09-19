@@ -13,7 +13,7 @@ MY_MAIN_URL="https://raw.githubusercontent.com/Linuxcode1/"
 #MY_URL=$MY_MAIN_URL$PACKAGE_DIR'/'$MY_FILE
 
 
-MY_URL=https://raw.githubusercontent.com/Linuxcode1/Picons/blob/main/BlackPicons.tar.gz
+MY_URL=https://raw.githubusercontent.com/Linuxcode1/Picons/main/BlackPicons.tar.gz
 
 MY_TMP_FILE="/tmp/"$MY_FILE
 

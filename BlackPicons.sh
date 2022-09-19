@@ -1,17 +1,16 @@
 #!/bin/sh
 #########################################################
 version=2.1.1
-description="Bahaa Picon Idea" !!!
+description="BoHLALA_FHD-V" !!!
 
-MY_MAIN_URL="https://raw.githubusercontent.com/Linuxcode1/"
-PACKAGE_DIR='Picons/main/'
+#########################################################
+ 
+#########################################################
+PACKAGE_DIR='Picons/blob/main/'
 MY_FILE="BlackPicons.tar.gz"
-
+#########################################################
+MY_MAIN_URL="https://raw.githubusercontent.com/Linuxcode1/"
 MY_URL=$MY_MAIN_URL$PACKAGE_DIR'/'$MY_FILE
-
-
-#MY_URL=https://raw.githubusercontent.com/Linuxcode1/Picons/main/BlackPicons.tar.gz
-
 MY_TMP_FILE="/tmp/"$MY_FILE
 
 rm -f $MY_TMP_FILE > /dev/null 2>&1
@@ -30,10 +29,10 @@ if [ -f $MY_TMP_FILE ]; then
 	echo 'Extracting ...'
 	echo $MY_SEP
 	echo ''
-	
+	tar -xf $MY_TMP_FILE -C /
 	MY_RESULT=$?
 
-	
+	rm -f $MY_TMP_FILE > /dev/null 2>&1
 
 
 	echo ''
